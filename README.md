@@ -40,7 +40,7 @@ import Calculator from './src/pages/Calculator';
 export default function App() {
   return <Calculator />;
 }
-
+```
 
 ### Navbar
 
@@ -51,7 +51,7 @@ import Navbar from './src/pages/Navbar';
 export default function App() {
   return <Navbar />;
 }
-
+```
 ### Question3
 
 To test the Question3 component, modify `App.tsx` to:
@@ -61,3 +61,14 @@ import Question3 from './src/pages/Question3';
 export default function App() {
   return <Question3 />;
 }
+```
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
